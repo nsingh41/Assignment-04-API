@@ -1,0 +1,16 @@
+{
+ "title":"book that contain beer",
+ "author":"terry crews", 
+ "genre":"beer", 
+ "publication":
+  {
+ 	"date_published":"12-21-2012",
+ 	"publisher":"terry crews"},
+ 	"availability":
+ 	[{
+ 		"edition":"first",
+ 		"total_copies":"12",
+ 		"available":"1",
+ 		borrowed":"0"; 
+ 	}]
+}
