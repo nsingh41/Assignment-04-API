@@ -2,7 +2,7 @@ This is an Api which runs on localhost at port number 2501.
 
 This basically GET,POST,DELETE and PUT  information of books via JSon object.
 
-We are putting the sample of the object in "sample.js"
+We are putting the sample of the object in "sample.txt"
 
 We have created our server in hapi frameworks and connectivity is with mongodb and all these things are in "index.js".
 
